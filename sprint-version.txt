@@ -1,2 +1,2 @@
-current_sprint = '19.11.1'
-previous_sprint = '19.10.2'
+current_sprint=19.11.1
+previous_sprint=19.10.2
